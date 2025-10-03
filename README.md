@@ -1,7 +1,3 @@
-Ecco una versione migliorata e più accattivante del tuo README per il profilo GitHub:
-
----
-
 # 👋 Hi, I'm Vitali
 
 💻 **Fullstack Developer from Italy 🇮🇹**
