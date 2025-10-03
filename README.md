@@ -32,5 +32,3 @@ I build modern, scalable and performant web applications with a focus on **ecomm
 ✨ *Feel free to connect or check out my repositories here on GitHub!*
 
 ---
-
-Vuoi che te lo preparo anche in **italiano** (magari come seconda sezione), oppure preferisci tenerlo solo in inglese per renderlo più internazionale?
