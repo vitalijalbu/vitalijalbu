@@ -1,16 +1,40 @@
-## Hi there 👋
+Ecco una versione migliorata e più accattivante del tuo README per il profilo GitHub:
 
-<!--
-**vitalijalbu/vitalijalbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Vitali
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Fullstack Developer from Italy 🇮🇹**
+
+I build modern, scalable and performant web applications with a focus on **ecommerce**, **custom platforms**, and **API integrations**.
+
+---
+
+## 🚀 Tech Stack
+
+* **Frontend:** React, Next.js, Remix, TailwindCSS, Alpine.js
+* **Backend:** Laravel, PHP, Node.js
+* **CMS & Ecommerce:** Shopify, CraftCMS, StatamicCMS, DatoCMS
+* **Data & APIs:** GraphQL, REST, JSON/XML integrations
+
+---
+
+## 🌍 About Me
+
+* 🔹 Passionate about creating tailored digital solutions
+* 🔹 Experienced in building ecommerce platforms and complex web apps
+* 🔹 Always curious about new technologies and clean architectures
+
+---
+
+## 📎 Portfolio & Links
+
+🌐 [My Portfolio & Links](https://linktr.ee/vitali.jalbu)
+
+---
+
+✨ *Feel free to connect or check out my repositories here on GitHub!*
+
+---
+
+Vuoi che te lo preparo anche in **italiano** (magari come seconda sezione), oppure preferisci tenerlo solo in inglese per renderlo più internazionale?
